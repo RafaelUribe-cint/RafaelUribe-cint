@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RafaelUribe-cit
+- 👋 Hi, I’m @RafaelUribe-cint
 - 👀 I’m interested in E-Commerce
-- 🌱 I’m currently learning Fintech
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate with CocoCola
 - 📫 How to reach me at rauribe@coca-cola.com
-- 😄 Pronouns Hi/Him
+- 😄 Pronouns Taco/Burrito
 - ⚡ Fun fact I love VideoGames!
 
 <!---
